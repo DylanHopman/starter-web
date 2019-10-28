@@ -16,3 +16,6 @@ alfalkkjfkl ;jlkjfafj dafalfjcvarfdlkj adfvelkajf vydfa  f adf adldvv
 
 ## How To Contribute
 2
+
+### Copyright
+Copyright training
