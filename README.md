@@ -15,7 +15,7 @@ As stajdf;lajflk;asjf l;sakjf al;ksfjal;fjaslf al;sjl;akjfl;kasj f;lasjdf
 alfalkkjfkl ;jlkjfafj dafalfjcvarfdlkj adfvelkajf vydfa  f adf adldvv
 
 ## How To Contribute
-2
+Dit is een test om te kijken of het werkt.
 
 ### Copyright
 Copyright training
