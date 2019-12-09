@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    Bedankt voor deze tutorial
 
 # TECHNOLOGY COLOPHON
 
