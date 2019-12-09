@@ -14,7 +14,7 @@ alfalkkjfkl ;jlkjfafj dafalfjcvarfdlkj adfvelkajf vydfa  f adf adldvv
 Dit is een test om te kijken of het werkt.
 
 ### Copyright
-Copyright training
+Copyright training 2019 - all rights reserved
 
 # Dit is een test
 Mooie test
